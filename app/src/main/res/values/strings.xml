@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Photo Album</string>
+    <string name="Photos">Photos</string>
+    <string name="main_button">Create</string>
+    <string name="cancel_button">cancel</string>
+    <string name="album_hint">Create new album</string>
+    <string name="choose_pic">Choose Images</string>
+    <string name="Camera">Camera</string>
+    <string name="Rename">Rename</string>
+    <string name="Delete">Delete</string>
+    <string name="Copy">Copy to</string>
+    <string name="Move">Move to</string>
+    <string name="AddEedit">Add/Edit Tags</string>
+    <string name="caption">Caption: </string>
+    <string name="Location">Location: </string>
+    <string name="People">People: </string>
+    <string name="Add">Add</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="Addresult">Create Album from search</string>
+    <string name="enter_tags_names_ex_tag1_tag2">Enter tags Names: ex) tag1,tag2...</string>
+    <string name="title_activity_temp">temp</string>
+
+
+</resources>
